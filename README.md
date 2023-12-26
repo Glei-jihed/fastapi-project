@@ -1,8 +1,12 @@
 Traducteur de Mots avec FastAPI, MySQL, et Docker
-Description
+
+
+Description : 
+*
 Ce projet est une API construite avec FastAPI, utilisant MySQL pour la gestion de données et Docker pour le déploiement facile. Elle permet de morceler et de traduire des mots selon un dictionnaire personnalisable. Les utilisateurs peuvent créer, modifier, supprimer ou sélectionner des dictionnaires. Ensuite, en fournissant un mot, l'API retourne sa traduction selon le dictionnaire choisi.
 
-Fonctionnalités
+Fonctionnalités :
+
 Créer, modifier, supprimer, et sélectionner des dictionnaires.
 Traduire des mots selon le dictionnaire choisi.
 Gestion complète des dictionnaires via une API REST.
